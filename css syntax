@@ -1,0 +1,90 @@
+What is css?
+css format /presenting and providing styles to your pages
+
+Html=>Skelton
+COlors ,Format,Clothes
+CSS-
+style.css
+Screen,Mobile,tablet
+
+
+How to use CSS?
+3 Ways
+1.Inline=>Within the tag
+2.Internal=>Within the head of html doc
+3.External=>link
+id(#idname),class(.classname),universal(*),Element/Tag
+selector{
+proprty:value;
+property:value;
+}
+
+ways to use css 
+property & value 
+class(.) vs id (#)
+
+
+Grouping of element
+,
+element,#id,.class{
+property:val
+}
+
+
+condtional selector ,Parent child relation
+
+parent child selector{
+
+}
+
+div p{
+
+
+}
+
+
+Pseduoselector
+:hover,
+:active
+:visit
+:before
+:after
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+use of important 
+display property: inline, block 
+box model: padding,margin,border 
+position property: fixed,static,relative,absolute,sticky
